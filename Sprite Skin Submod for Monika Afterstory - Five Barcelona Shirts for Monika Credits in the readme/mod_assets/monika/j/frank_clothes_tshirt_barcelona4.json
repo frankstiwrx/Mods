@@ -1,0 +1,71 @@
+{
+    "__author": "Frank",
+    "ex_props": {
+        "home": true
+    },
+    "version": 3,
+    "type": 2,
+    "name": "frank_tshirt_barcelona4",
+    "img_sit": "frank_tshirt_barcelona4",
+    "pose_map": {
+        "mpm_type": 0,
+        "default": false,
+        "use_reg_for_l": true,
+        "p1": true,
+        "p2": true,
+        "p3": true,
+        "p4": true,
+        "p5": true,
+        "p6": true,
+        "p7": true
+    },
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Barcelona (14-15 Home)",
+        "thumb": "frank_tshirt_barcelona4",
+        "group": "clothes",
+        "select_dlg": [
+            "The best of Barcelona and also of our wonderful fifth Champions League kit winner,even though I didn't see it with my own eyes, thank you for telling me these wonderful stories [player], I would love to have seen the trio Messi, Neymar and Suárez playing.",
+            "Well [player]? Do I look... fanatic? Ahaha, Visca Barça!"
+        ]
+    },
+    "giftname": "tshirtbarcelona4",
+    "pose_arms": {
+        "crossed": {
+            "tag": "crossed",
+            "layers": "5"
+        },
+        "left-down": {
+            "tag": "down",
+            "layers": "0"
+        },
+        "left-rest": {
+            "tag": "rest",
+            "layers": "10"
+        },
+        "right-down": {
+            "tag": "down",
+            "layers": "0"
+        },
+        "right-point": {
+            "tag": "point",
+            "layers": "0"
+        },
+        "right-restpoint": {
+            "tag": "restpoint",
+            "layers": "10"
+        },
+        "steepling": {
+            "tag": "steepling",
+            "layers": "10"
+        },
+        "def|left-def": {
+            "tag": "def",
+            "layers": "10"
+        },
+        "def|right-def": {
+            "tag": "def",
+            "layers": "5"
+        }
+    }
+}

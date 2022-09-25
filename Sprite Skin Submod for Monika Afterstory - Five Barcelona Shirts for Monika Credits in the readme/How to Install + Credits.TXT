@@ -1,0 +1,17 @@
+How to Install + Credits:
+
+Hi, my name is Frank and i,m a great fan of DDLC and also fan of Monika Afterstory mod, So i play this game everyday and i m still learning about the game and everything, I m also a fan of the Soccer Club: Futbol Club Barcelona so seeing if theres no content related to Barcelona and Monika AfterStory Mod i decided to create my own Sprite/Mod for the game, and is also giftble(If This word even exists xD), I havent see any tutorial about modding DDLC MAS, but i have seen  the game files and i was able to make the edition, i m also not good at all in photoshop xD, But when you want something you can do it for anyway possible remember that!
+
+How to install:
+
+Just drag the files to the folder "game", make sure you have made a backup of your game files before installing it, and to give monika just copy the .gift files for the characters folder.
+
+Credits:
+Team Salvato: Original Game
+Briar Young: Base Sprites 
+MAS Fan Project:
+Monika After Story is a fan project based on Doki Doki Literature Club by Team Salvato. Doki Doki Literature Club and all associated trademarks and characters are property of Team Salvato, and use is in accordance with their publicly available IP Guidelines.
+
+
+
+  

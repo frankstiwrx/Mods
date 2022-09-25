@@ -1,0 +1,71 @@
+{
+    "__author": "Frank",
+    "ex_props": {
+        "home": true
+    },
+    "version": 3,
+    "type": 2,
+    "name": "frank_tshirt_barcelona3",
+    "img_sit": "frank_tshirt_barcelona3",
+    "pose_map": {
+        "mpm_type": 0,
+        "default": false,
+        "use_reg_for_l": true,
+        "p1": true,
+        "p2": true,
+        "p3": true,
+        "p4": true,
+        "p5": true,
+        "p6": true,
+        "p7": true
+    },
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Barcelona (22-23 Home)",
+        "thumb": "frank_tshirt_barcelona3",
+        "group": "clothes",
+        "select_dlg": [
+            "Olela, olala, ser del Barca es, el millor que hi ha!",
+            "Well [player]? Do I look... fanatic? Ahaha, Visca Barça!"
+        ]
+    },
+    "giftname": "tshirtbarcelona3",
+    "pose_arms": {
+        "crossed": {
+            "tag": "crossed",
+            "layers": "5"
+        },
+        "left-down": {
+            "tag": "down",
+            "layers": "0"
+        },
+        "left-rest": {
+            "tag": "rest",
+            "layers": "10"
+        },
+        "right-down": {
+            "tag": "down",
+            "layers": "0"
+        },
+        "right-point": {
+            "tag": "point",
+            "layers": "0"
+        },
+        "right-restpoint": {
+            "tag": "restpoint",
+            "layers": "10"
+        },
+        "steepling": {
+            "tag": "steepling",
+            "layers": "10"
+        },
+        "def|left-def": {
+            "tag": "def",
+            "layers": "10"
+        },
+        "def|right-def": {
+            "tag": "def",
+            "layers": "5"
+        }
+    }
+}
